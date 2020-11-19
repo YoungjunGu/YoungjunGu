@@ -18,7 +18,7 @@ I want to be a iOS Developer who the most faithful to the basics! 🤜
 
 - currently living in Gyeonggi-do, South Korea
 - currently studying iOS, Swift, SwiftUI, Architecture(RIBs, MVVM, VIPER..),
-- my emali is youngjun.gu@navercorp.com
+- E-mail: youngjun.gu@navercorp.com
 - Languages:
   - Korean: Native or bilingual proficiency
   - English: Professional working proficiency
