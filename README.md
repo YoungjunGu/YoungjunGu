@@ -19,10 +19,7 @@ I want to be a iOS Developer who the most faithful to the basics! 🤜
 - currently living in Gyeonggi-do, South Korea
 - currently studying iOS, Swift, SwiftUI, Architecture(RIBs, MVVM, VIPER..),
 - E-mail: youngjun.gu@navercorp.com
-- Languages:
-  - Korean: Native or bilingual proficiency
-  - English: Professional working proficiency
-  - Japanese: 日常的な会話は可能です。(~~小学生2年生レベル~~)
+
 
 ### iOS Developer
 NAVER Corp. CONOMI App. iOS Developer (`2020.07.27 ~` )
