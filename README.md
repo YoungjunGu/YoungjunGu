@@ -18,7 +18,7 @@ I want to be a iOS Developer who the most faithful to the basics! 🤜
 
 - currently living in Gyeonggi-do, South Korea
 - currently studying iOS, Swift, SwiftUI, Architecture(RIBs, MVVM, VIPER..),
-- E-mail: youngjun.gu@navercorp.com
+- E-mail: guyeongjun@naver.com
 
 
 ### iOS Developer
