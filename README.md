@@ -13,14 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am
-I want to be a iOS Developer who the most faithful to the basics! 🤜
-
-- currently living in Gyeonggi-do, South Korea
-- currently studying iOS, Swift, SwiftUI, Architecture(RIBs, MVVM, VIPER..),
-- E-mail: guyeongjun@naver.com
-
-
 ### iOS Developer
 NAVER Corp. CONOMI App. iOS Developer (`2020.07.27 ~` )
 
