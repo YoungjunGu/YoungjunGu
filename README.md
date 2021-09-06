@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### iOS Developer
-NAVER Corp. CONOMI App. iOS Developer (`2020.07.27 ~` )
+NAVER Corp. LINE PLACE. iOS Developer (`2020.07.27 ~` )
 
 ### Blog
 
