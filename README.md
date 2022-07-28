@@ -15,13 +15,3 @@ Here are some ideas to get you started:
 
 ### iOS Developer
 NAVER Corp. LINE PLACE. iOS Developer (`2020.07.27 ~` )
-
-### Blog
-
-- https://gaki2745.github.io/
-
-### Internship Experience 
-
-- Samsung Electronics Internship. Android Developer. (`2019.06.27~2019.08.09`)
-- Naver Corp Internship. iOS Developer. (`2020.01.20~2020.03.14`)
-
